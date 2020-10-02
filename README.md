@@ -1,2 +1,2 @@
 # solution-codes
-This repo consists of solution codes to problem for people to solve and compare logic 
+This repo consists of solution codes for people to analyze and compare their solutions to the problems.
